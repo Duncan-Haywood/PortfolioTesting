@@ -19,4 +19,4 @@ getMgStyle.defaultProps = {
 	currentHeuristic: undefined, getSeed: getSeed
 }
 
-getMgStyle({currentHeuristic: ""})
+getMgStyle({currentHeuristic: 2})
